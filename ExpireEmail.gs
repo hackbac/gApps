@@ -1,6 +1,7 @@
 // Title: Expire Emails 
 // Author: Brian Chong (code@hackbc.com)
 // Description: Move Tagged Gmail Threads to trash after a certain number of days has passed
+// URL: Google Drive version http://goo.gl/Ffy5K 
 
 function expire() { 
   expireEmails('Expires/Tomorrow');
